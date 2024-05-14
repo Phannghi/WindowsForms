@@ -1,0 +1,196 @@
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\GUNA1.exe.config
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\Guna.UI2.dll
+D:\Đồ Án Windows\GUNA1\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\Đồ Án Windows\GUNA1\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.exe.config
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.exe
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.pdb
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\Guna.UI2.dll
+D:\year4-II\Window\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.exe
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.exe.config
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\Guna.UI2.dll
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.pdb
+D:\year4-II\Window\GUNA1 (2)\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.exe.config
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\Guna.UI2.dll
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.TheTienDoCuaSV.resources
+D:\Đồ Án Windows\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcViewProgress.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.exe.config
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.exe
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\GUNA1.pdb
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\Guna.UI2.dll
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.TheTienDoCuaSV.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UcViewProgress.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.exe
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.pdb
+D:\year4-II\Window\GUNA1 (2) (1)\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\GUNA1.exe.config
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Bunifu.Licensing.dll
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Guna.UI2.dll
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.csproj.AssemblyReference.cache
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmCapNhatDS.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmDangNhap.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmHSThemLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmLyDoKoDuyet.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmMainGV.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmMainHS.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmThemThesis.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.Properties.Resources.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheTienDoCuaSV.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UCAppPro.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcCheckPro.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcDangKiLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UCInfo.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UCMark.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcUpdatePro.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcViewProgress.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UserControlAddThesis.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.csproj.GenerateResource.cache
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.csproj.CoreCompileInputs.cache
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.csproj.CopyComplete
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.exe
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.pdb
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheDanhGia.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheThongTinSV.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcThemSvVaoNhom.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheDangKiLuanVan.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcDuyetSvDangKi.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.ucChatBox.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.TheChamDiem.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcXemDiem.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Guna.Charts.WinForms.dll
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\bin\Debug\Guna.Charts.WinForms.xml
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.ucThongKe.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcThemTask.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.UcPhanTramTienDo.resources
+D:\Đồ Án Windows\GUNA1 (Newest)\GUNA1\obj\Debug\GUNA1.FrmCapNhat.resources
